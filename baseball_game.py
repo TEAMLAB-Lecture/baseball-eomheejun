@@ -306,7 +306,6 @@ def main():
 
                     else:
                         break
-
             elif is_no(one_more_input) is True:
                 break
             else:
@@ -315,4 +314,4 @@ def main():
     print("Thank you for using this program")
     print("End of the Game")
 
-main()
+
